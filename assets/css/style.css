@@ -44,15 +44,15 @@
   line-height: 1.625rem
 }
 .font_family_regular {
-  font-family: BERNIERRegular-Regular
+  //font-family: BERNIERRegular-Regular
 }
 .font_family_regular_24 {
-  font-family: BERNIERRegular-Regular;
+  //font-family: BERNIERRegular-Regular;
   font-size: 1.5rem;
   line-height: 1.4
 }
 .font_family_regular_36 {
-  font-family: BERNIERRegular-Regular;
+  //font-family: BERNIERRegular-Regular;
   font-size: 2.263rem;
   line-height: 1.2
 }
